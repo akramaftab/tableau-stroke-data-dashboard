@@ -1,5 +1,3 @@
-Here is a comprehensive README description for your Tableau Stroke Data Dashboard project suitable for your GitHub repository, following the style of your previous project descriptions:
-
 ***
 
 # Stroke Data Analytics Dashboard (Tableau)
@@ -12,7 +10,7 @@ The Stroke Data Analytics Dashboard is an interactive Tableau project designed t
 
 This dashboard aims to deliver a detailed overview of stroke-related health data, enabling users to explore stroke rates across different gender, age groups, smoking status, work types, and residence types. By illuminating patterns in hypertension, heart disease, BMI, and smoking habits related to stroke occurrences, the project supports targeted interventions and improved healthcare resource allocation.
 
-## Dataset Used
+## ([Dataset Used]https://github.com/akramaftab/tableau-stroke-data-dashboard/blob/main/healthcare-dataset-stroke-data.csv)
 
 The dataset contains comprehensive healthcare records of 5,110 patients, capturing rich information including:
 - Stroke occurrence flags indicating whether a patient has suffered a stroke.
@@ -80,8 +78,8 @@ The Stroke Data Analytics Dashboard offers a powerful tool for understanding and
 - CSV data storage and management
 - Advanced Tableau features: KPIs, filters, pie charts, bar graphs, line charts, and dynamic drill-downs
 
+## Screenshot/demo:
+<img width="1125" height="570" alt="image" src="https://github.com/user-attachments/assets/3ea142d0-748a-40ae-a716-9c774d1bb45a" />
+
+
 ***
-
-This detailed README can be used to showcase your Tableau stroke analytics project professionally on GitHub and other portfolio platforms. Let me know if you want a markdown-formatted file or any refinements.
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/99293206/abf73164-e715-469c-9ae1-a9ca2f2cea7e/image.jpg)

@@ -10,7 +10,7 @@ The Stroke Data Analytics Dashboard is an interactive Tableau project designed t
 
 This dashboard aims to deliver a detailed overview of stroke-related health data, enabling users to explore stroke rates across different gender, age groups, smoking status, work types, and residence types. By illuminating patterns in hypertension, heart disease, BMI, and smoking habits related to stroke occurrences, the project supports targeted interventions and improved healthcare resource allocation.
 
-## ([Dataset Used]https://github.com/akramaftab/tableau-stroke-data-dashboard/blob/main/healthcare-dataset-stroke-data.csv)
+## [Dataset Used](https://github.com/akramaftab/tableau-stroke-data-dashboard/blob/main/healthcare-dataset-stroke-data.csv)
 
 The dataset contains comprehensive healthcare records of 5,110 patients, capturing rich information including:
 - Stroke occurrence flags indicating whether a patient has suffered a stroke.
